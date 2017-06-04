@@ -1,0 +1,8 @@
+/* Styles go here */
+h1 {color: #369; font-family: Helvetica;}
+h2 {color: #369; font-family: Helvetica;}
+
+body, input[text], button {color: #788; font-family: Georgia; padding: 0;}
+button:hover {background-color: #8cb5f7;}
+table {border-collapse: collapse;}
+tr:hover {background-color: #f5f5f5}
